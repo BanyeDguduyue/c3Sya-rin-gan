@@ -20,7 +20,7 @@ body{
 
 .content1{
     display: inline-block;
-    border: 1px solid whitesmoke;
+    
     position: absolute;
     left: 85px;
 }
@@ -59,7 +59,7 @@ body{
 
 .content2{
     display: inline-block;
-    border: 1px solid whitesmoke;
+   
     position: absolute;
     right: 85px;
 }
